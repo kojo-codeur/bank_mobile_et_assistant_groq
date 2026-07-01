@@ -101,7 +101,7 @@ Cette application intègre un assistant IA basé sur **API GROQ** permettant une
 
 | Home | Paiement QR | Historique |
 |------|-------------|------------|
-| Image | Image | Image |
+| <img src="home.png" width="220"/> | <img src="transfer.png" width="220"/> | <img src="historique.png" width="220"/> |
 
 ---
 
