@@ -140,7 +140,7 @@ Voir le fichier **LICENSE** pour plus d'informations.
 
 # 👨‍💻 Développeur
 
-**Votre Nom**
+**kojo codeur**
 
 Android Developer • Kotlin • Firebase • IA • Full Stack Developer
 
